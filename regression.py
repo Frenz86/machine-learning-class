@@ -8,7 +8,7 @@ from datetime import datetime
 import os
 
 #--  pip install scikit-learn
-# pip list 
+# pip list  cdfd
 # pip install ipykernel
 
 url = "dpc-covid19-ita-andamento-nazionale.csv" #"https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv"  
