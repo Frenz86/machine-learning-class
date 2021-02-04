@@ -14,6 +14,7 @@ import os
 url = "dpc-covid19-ita-andamento-nazionale.csv" #"https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv"  
 df = pd.read_csv(url) # lettura
 df.head()
+# klsdksl
 df["variazione_totale_positivi"].values
 df["data"].values
 fig = go.Figure()
