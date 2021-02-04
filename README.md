@@ -23,9 +23,15 @@ git pull
 
 
 ```
+
+# Creazione virtualenv
+# Dentro la cartella di lavoro
 virtualenv env
-#source env/bin/activate
-source env/Scripts/activate
-pip freeze > requirements.txt
+#source env/bin/activate # Mac 
+source env/Scripts/activate # Windows
 pip install -r requirements.txt
+python regression.py
+
+
+#pip freeze > requirements.txt
 ```
