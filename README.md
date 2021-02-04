@@ -3,7 +3,7 @@ Folder associated to machine learning course repository
 
 ## paragro 1
 
-### paragrafo 2
+### paragrafo 3
 
 
 1. fd
