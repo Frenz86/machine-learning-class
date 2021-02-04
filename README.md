@@ -10,4 +10,4 @@ Folder associated to machine learning course repository
 2. dsd
 3. sds
 
-> sdsdsf fdf fdsfdsf ciao ciac dsdsd dsd
+> sdsdsf fdf fdsfdsf ciao ciac idlkssds
