@@ -12,3 +12,20 @@ Folder associated to machine learning course repository
 
 > sdsdsf fdf fdsfdsf ciao ciac idlkssds fdfds
  
+
+```
+git status
+git add  <nome file> # mettere in stage
+git commit -m "klsdk" 
+git push
+git pull
+```
+
+
+```
+virtualenv env
+#source env/bin/activate
+source env/Scripts/activate
+pip freeze > requirements.txt
+pip install -r requirements.txt
+```
