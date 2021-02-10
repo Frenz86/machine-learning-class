@@ -23,7 +23,6 @@ git pull
 
 
 ```
-
 # Creazione virtualenv
 # Dentro la cartella di lavoro
 virtualenv env
